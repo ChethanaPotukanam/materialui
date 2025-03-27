@@ -1,5 +1,5 @@
-## creating a vite project 
-bash ```npx create-vite@latest```
+#### creating a vite project 
+```npx create-vite@latest```
 
 
 
