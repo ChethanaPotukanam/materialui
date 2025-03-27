@@ -18,6 +18,4 @@ First embed code in head tag which you copied from google fonts
 
 Then add below code in index.css
 
-```body {
-  font-family: "Winky Sans", sans-serif;
-}```
+```body {font-family: "Winky Sans", sans-serif;}```
